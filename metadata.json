@@ -1,0 +1,6 @@
+{
+  "name": "KURO TUBE",
+  "description": "Futuristic minimal video matrix with 5 videos per theme, immersive 3D preview cards, and low-latency HD playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
